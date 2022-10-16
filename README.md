@@ -9,6 +9,7 @@ https://medium.com/@backslashkeys/how-to-build-a-monorepo-with-roblox-ts-lerna-a
 2. Optional: Change the folder name, delete .git folder, and change the name in package.json at the root of the project.
 3. Install yarn and run yarn at the root of the repository.
 4. Install Nx and Lerna
+5. Make a places and packages folder before using any shell scripts.
 
 ## Create a Place
 `./create-place.sh place-name`
