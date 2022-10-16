@@ -1,0 +1,9 @@
+{
+	"name": "template",
+	"tree": {
+		"$className": "Folder",
+		"out": {
+			"$path": "out"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "lerna-nx-roblox-template",
+	"version": "1.0.0",
+	"workspaces": {
+		"packages": [
+			"./packages/*",
+			"./places/*"
+		],
+		"nohoist": [
+			"**/@rbxts/*"
+		]
+	},
+	"scripts": {
+		"build": "lerna run build",
+		"bootstrap": "lerna bootstrap"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"lerna": "^5.6.1",
+		"nx": "^14.8.3"
+	}
+}
