@@ -9,8 +9,9 @@ This is a template for using Lerna and Nx with roblox-ts.
 
 *If you're having trouble running .sh scripts on Linux, be sure to mark them as executable.*
 
-## Adding Dependencies
+## Adding Dependencies to Places
 `lerna add @rbxts/dependency --scope=place-name`
+## Adding Dependencies to Packages
 `lerna add @rbxts/dependency --scope=@rbxts/package-name`
 
 ## Building
