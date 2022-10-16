@@ -1,6 +1,9 @@
 # Lerna, Nx, & roblox-ts Template
 This is a template for using Lerna and Nx with roblox-ts.
 
+## Medium Article
+https://medium.com/@backslashkeys/how-to-build-a-monorepo-with-roblox-ts-lerna-and-nx-6148617ee917
+
 ## Setup
 1. Clone my lerna-nx-roblox-example monorepo. https://github.com/backslashkeys/lerna-nx-roblox-template.git
 2. Optional: Change the folder name, delete .git folder, and change the name in package.json at the root of the project.
